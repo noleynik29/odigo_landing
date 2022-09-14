@@ -1,6 +1,6 @@
 # odigo_landing
 
-Simple landing using HTML5, CSS3 and JavaScript. Adapted for laptops, tablets and smartphones. 
+Simple landing using HTML5, CSS3 and JavaScript. Adapted for big screens, laptops, tablets and smartphones. 
 
 Landing was taken from Figma https://www.figma.com/file/ClPSP7KCU1NbvxMXA914hlFk/travel-landing-page-jacobvoyles?node-id=0%3A1
 
